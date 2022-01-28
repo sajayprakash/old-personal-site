@@ -2,8 +2,10 @@
 
 
 ```console
-sajay@repositories:~$ cat myrepositories.txt
+sajay@repositories:~$ cat myrepositories.txt ; echo "Some of my github repos"
 ```
+> Some of my github repos
+
 - [Megathread](https://sajayprakash.github.io/megathread/) - A list of useful apps, websites, extensions and other stuff I use and recommend. 
 
 - [Single-gpu-passthrough](https://github.com/sajayprakash/single-gpu-passthrough) - QEMU/KVM Single-gpu-passthrough guide for my system.
@@ -12,4 +14,8 @@ sajay@repositories:~$ cat myrepositories.txt
 
 - [IPL-fantasy-team-builder](https://github.com/sajayprakash/ipl-fantasy-team-builder) - My class XII Computer Science final project.
 
-- [DWM](https://github.com/sajayprakash/dwm) - my fork of dwm. 
+- [dwm](https://github.com/sajayprakash/dwm) - my fork of dynamic window manager. 
+
+- [st](https://github.com/sajayprakash/st) - My fork of suckless terminal.
+
+- [dwmblocks](https://github.com/sajayprakash/dwmblocks) - My fork of dmwblocks.  
