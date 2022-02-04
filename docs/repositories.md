@@ -1,7 +1,7 @@
 <!-- repositories.md -->
 
 
-```console
+```bash
 sajay@repositories:~$ echo "Some of my github repos" ; cat myrepositories.txt
 ```
 > Some of my github repos
