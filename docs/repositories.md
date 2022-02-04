@@ -2,7 +2,7 @@
 
 
 ```console
-sajay@repositories:~$ cat myrepositories.txt ; echo "Some of my github repos"
+sajay@repositories:~$ echo "Some of my github repos" ; cat myrepositories.txt
 ```
 > Some of my github repos
 

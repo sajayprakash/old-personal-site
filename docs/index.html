@@ -15,16 +15,23 @@
   <div id="app">loading...</div>
   <script>
     window.$docsify = {
-      homepage: 'readme.md',
+      homepage: 'homepage.md',
       coverpage: true,
       repo: 'https://github.com/sajayprakash/',
       loadSidebar: true,
       name: 'Index',
       notFoundPage: '404.md',
       auto2top: true,
+      executeScript: true,
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      search: {
+        placeholder: 'Search',
+      },
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   </body>
 </html>
