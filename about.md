@@ -52,7 +52,7 @@ Hi, I'm Sajay Prakash. I'm currently pursuing my Bachelor's Degree in Computer S
             <li> <label>sajay@about</label> </li>
             <li> ------------ </li>
             <li> <label>Name</label>: Sajay Prakash</li>
-            <li> <label>Email</label>: sajay.p@pm.me </li>
+            <li> <label>Email</label>: contact@sajayprakash.com</li>
             <li> <label>Age</label>: 18</li>
             <li> <label>Birthday</label>: 5th October,2003</li>
             <li> <label>Hobbies & Interests</label>: Anime, Tech, Music, Japanese Culture</li>
