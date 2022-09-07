@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sajay Prakash</title>
+    <link>https://sajayprakash.com/</link>
+    <description>Recent content on Sajay Prakash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2022 Sajay Prakash</copyright><atom:link href="https://sajayprakash.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://sajayprakash.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sajayprakash.com/about/</guid>
+      <description>I&amp;rsquo;m Sajay Prakash, I&amp;rsquo;m currently pursuing my Bachelor&amp;rsquo;s Degree in Computer Science and Engineering at Rajalakshmi Engineering College. I love learning more about technology and computers. I&amp;rsquo;m a Linux enthusiast and I love the ideology of &amp;lsquo;Free &amp;amp; Open Source Software (FOSS)&amp;rsquo; which is the reason why I love promoting FOSS software.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sajayprakash.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sajayprakash.com/contact/</guid>
+      <description>Email : contact@sajayprakash.com
+Github : sajayprakash</description>
+    </item>
+    
+  </channel>
+</rss>
