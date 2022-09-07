@@ -2,13 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sajayprakash.com/posts/</loc>
+    <lastmod>2022-09-07T21:01:32+05:30</lastmod>
+  </url><url>
+    <loc>https://sajayprakash.com/</loc>
+    <lastmod>2022-09-07T21:01:32+05:30</lastmod>
+  </url><url>
+    <loc>https://sajayprakash.com/posts/firstpost/</loc>
+    <lastmod>2022-09-07T21:01:32+05:30</lastmod>
+  </url><url>
     <loc>https://sajayprakash.com/about/</loc>
   </url><url>
     <loc>https://sajayprakash.com/categories/</loc>
   </url><url>
     <loc>https://sajayprakash.com/contact/</loc>
-  </url><url>
-    <loc>https://sajayprakash.com/</loc>
   </url><url>
     <loc>https://sajayprakash.com/series/</loc>
   </url><url>

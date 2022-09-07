@@ -6,7 +6,19 @@
     <description>Recent content on Sajay Prakash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2022 Sajay Prakash</copyright><atom:link href="https://sajayprakash.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2022 Sajay Prakash</copyright>
+    <lastBuildDate>Wed, 07 Sep 2022 21:01:32 +0530</lastBuildDate><atom:link href="https://sajayprakash.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://sajayprakash.com/posts/firstpost/</link>
+      <pubDate>Wed, 07 Sep 2022 21:01:32 +0530</pubDate>
+      
+      <guid>https://sajayprakash.com/posts/firstpost/</guid>
+      <description>Why I made this website? As Luke Smith states in LandChad.net - &amp;ldquo;Starting a website is something that can be done in a lazy afternoon and costs pocket change.&amp;rdquo;
+Everyone deserves to have an identity on the internet, so I created this website to put mine out there.
+How do I make this website? This website is built using Hugo. It is still a work in progress as I&amp;rsquo;m still learning the in&amp;rsquo;s and out&amp;rsquo;s of Hugo!</description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>https://sajayprakash.com/about/</link>
