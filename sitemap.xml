@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sajayprakash.com/tags/hugo/</loc>
+    <lastmod>2022-09-18T07:28:55+05:30</lastmod>
+  </url><url>
     <loc>https://sajayprakash.com/posts/</loc>
-    <lastmod>2022-09-07T21:01:32+05:30</lastmod>
+    <lastmod>2022-09-18T07:28:55+05:30</lastmod>
   </url><url>
     <loc>https://sajayprakash.com/</loc>
-    <lastmod>2022-09-07T21:01:32+05:30</lastmod>
+    <lastmod>2022-09-18T07:28:55+05:30</lastmod>
+  </url><url>
+    <loc>https://sajayprakash.com/tags/siteupdates/</loc>
+    <lastmod>2022-09-18T07:28:55+05:30</lastmod>
+  </url><url>
+    <loc>https://sajayprakash.com/tags/</loc>
+    <lastmod>2022-09-18T07:28:55+05:30</lastmod>
   </url><url>
     <loc>https://sajayprakash.com/posts/firstpost/</loc>
-    <lastmod>2022-09-07T21:01:32+05:30</lastmod>
+    <lastmod>2022-09-18T07:28:55+05:30</lastmod>
   </url><url>
     <loc>https://sajayprakash.com/about/</loc>
+    <lastmod>2022-09-11T15:07:19+05:30</lastmod>
   </url><url>
     <loc>https://sajayprakash.com/categories/</loc>
   </url><url>
     <loc>https://sajayprakash.com/contact/</loc>
-  </url><url>
-    <loc>https://sajayprakash.com/series/</loc>
-  </url><url>
-    <loc>https://sajayprakash.com/tags/</loc>
   </url>
 </urlset>

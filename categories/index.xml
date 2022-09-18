@@ -1,11 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Sajay Prakash</title>
-    <link>https://sajayprakash.com/categories/</link>
-    <description>Recent content in Categories on Sajay Prakash</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2022 Sajay Prakash</copyright><atom:link href="https://sajayprakash.com/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+	<title>Sajay Prakash</title>
+	<link>https://sajayprakash.com/categories/</link>
+	<description>Recent content in Categories on Sajay Prakash</description>
+	<generator>Hugo -- gohugo.io</generator>
+    
+        <atom:link href="https://sajayprakash.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Welcome to my site!</title>
+		<link>https://sajayprakash.com/posts/firstpost/</link>
+		<pubDate>Sun, 18 Sep 2022 07:28:55 +0530</pubDate>
+		
+		<guid>https://sajayprakash.com/posts/firstpost/</guid>
+		<description>&lt;p&gt;It took me a while to learn Hugo and CSS but I&amp;rsquo;ve finally deployed my own site from scratch. This site was created completely from scratch using just Hugo, Html and CSS (No JS!). This is still a work in progress and I&amp;rsquo;ll keep updating this site as time goes on, so watch out for updates!&lt;/p&gt;
+&lt;p&gt;This site is based on minimalism and a &amp;lsquo;keep it simple&amp;rsquo; mindset. I don&amp;rsquo;t plan on making this website fancy (bloated) with dumb JS, unnecessary animations, etc.&lt;/p&gt;
+&lt;p&gt;Check out the source code of this website on &lt;a href=&#34;https://github.com/sajayprakash/sajayprakash.com&#34;&gt;Github&lt;/a&gt;. If you have any suggestions, ideas or find any improvements, feel free to &lt;a href=&#34;https://github.com/sajayprakash/sajayprakash.com/issues/new&#34;&gt;create an issue&lt;/a&gt; on Github or email me.&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
 </rss>
