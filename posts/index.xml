@@ -1,55 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>Sajay Prakash</title>
-	<link>https://sajayprakash.com/posts/</link>
-	<description>Recent content in Posts on Sajay Prakash</description>
-	<generator>Hugo -- gohugo.io</generator>
-	<lastBuildDate>Sun, 18 Sep 2022 12:21:52 +0530</lastBuildDate>
+    <title>Posts on Sajay Prakash</title>
+    <link>https://sajayprakash.com/posts/</link>
+    <description>Recent content in Posts on Sajay Prakash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://sajayprakash.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why do I use Linux as my primary operating system?</title>
+      <link>https://sajayprakash.com/posts/whyiuselinux/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sajayprakash.com/posts/whyiuselinux/</guid>
+      <description>This article may be factually incorrect, feel free to correct me by opening a pull request or submitting an issue on my github repo. Introduction # More often than not, I get asked the question - &amp;ldquo;Why do you use Linux, what is it and why don&amp;rsquo;t you use Windows/MacOS as your primary operating system?</description>
+    </item>
     
-        <atom:link href="https://sajayprakash.com/posts/index.xml" rel="self" type="application/rss+xml" />
-	
-	
-	<item>
-		<title>Why do I use Linux as my primary operating system?</title>
-		<link>https://sajayprakash.com/posts/whyiuselinux/</link>
-		<pubDate>Sun, 18 Sep 2022 12:21:52 +0530</pubDate>
-		
-		<guid>https://sajayprakash.com/posts/whyiuselinux/</guid>
-		<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;More often than not, I get asked the question - &amp;ldquo;Why do you use Linux, what is it and why don&amp;rsquo;t you use Windows/MacOS as your primary operating system?&amp;rdquo;. In this blog post, I shall explain to you in detail about what Linux is and why I use it&lt;/p&gt;
-&lt;h2 id=&#34;what-is-linux&#34;&gt;What is Linux?&lt;/h2&gt;
-&lt;p&gt;Just like Windows, MacOS, iOS, Android, etc. Linux is just another operating system. Fun fact, the Android operating system is based on Linux.&lt;/p&gt;
-&lt;p&gt;To be more specific, Linux is a kernel and not the operating system itself. A kernel is the core of the operating system that controls the CPU, memory and other devices. What we refer to as the Linux operating system is actually GNU/Linux and not just Linux. Linux is not an operating system by itself but is another free component of a fully functioning GNU system made possible by GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX.&lt;/p&gt;
-&lt;p&gt;If all of this went over your head, in simple terms the Linux operating system is actually known as GNU/Linux which uses Linux as its base (Kernel) along with GNU utilities. Most of the webservers around the world use Linux.&lt;/p&gt;
-&lt;h2 id=&#34;why-not-windows&#34;&gt;Why not windows?&lt;/h2&gt;
-&lt;p&gt;First and foremost, Windows is closed-sourced. No one but Microsoft knows what really lies underneath the depths of the Windows source code. In more recent years, Microsoft has really started to push their boundaries with collecting user data, spying, telemetry, advertisements, limited customizabilty, etc. All of these factors make it such that the user is being operated by the operating system and not the other way around.&lt;/p&gt;
-&lt;p&gt;With this constant cycle of trash Windows releases, increased telemetry, advertisements , etc. It was only a matter of time before I had to find an alternative to switch to.&lt;/p&gt;
-&lt;h2 id=&#34;why-i-use-linux&#34;&gt;Why I use Linux&lt;/h2&gt;
-&lt;p&gt;Linux is open-source, I have full control over everything that happens in my system. I was sold by the idea of Open-Source, no telemetry, full control. When using Linux, I feel like Im using the system how it&amp;rsquo;s supposed to be used - with the user in control of the operating system. I can honestly go on and on about why I use Linux but these are the main reasons.&lt;/p&gt;
-&lt;p&gt;There are hundreds upon hundreds of GNU/Linux operating systems and they are known as distributions or &amp;lsquo;distro&amp;rsquo; for short.I&amp;rsquo;ve probably tried out around 20-30 of them (back when I had free time during COVID-19 lockdown). The distro that I currently use is &lt;a href=&#34;https://archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt;. It is a minimalist distro and is probably not advisable for beginners as it can be confusing and tedious for Linux noobs.&lt;/p&gt;
-&lt;h2 id=&#34;should-you-use-linux&#34;&gt;Should you use Linux?&lt;/h2&gt;
-&lt;p&gt;It depends. Do you like the idea of having freedom from evil companies like Microsoft, Apple, Google&amp;hellip;? Are you prepared to learn a lot of new things, having hardships figuring out how to use something entierly different? If you answered yes to these questions, then boot up any Linux distro on a virtual machine, spare computer or try it out on a live USB!&lt;/p&gt;
-&lt;p&gt;The software compatibality on Linux can be tricky, software like Adobe products like Photoshop, Premier Pro,etc do not work on Linux. They have their alternatives like &lt;a href=&#34;https://www.gimp.org/&#34;&gt;GIMP&lt;/a&gt; and &lt;a href=&#34;https://kdenlive.org/&#34;&gt;Kdenlive&lt;/a&gt; but can&amp;rsquo;t really compete with their mainstream competition on a professional level. Gaming is also another huge problem on Linux as most games with Anti-Cheat (eg: Valorant, Fortnite) don&amp;rsquo;t work underneath linux. So if these sound like a problem to you then Linux is probably not for you yet.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re trying out Linux and don&amp;rsquo;t know where to begin. I recommend these distros:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://getfedora.org/&#34;&gt;Fedora&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://linuxmint.com/&#34;&gt;Linux Mint&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pop.system76.com/&#34;&gt;PopOS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>Welcome to my site!</title>
-		<link>https://sajayprakash.com/posts/firstpost/</link>
-		<pubDate>Sun, 18 Sep 2022 07:28:55 +0530</pubDate>
-		
-		<guid>https://sajayprakash.com/posts/firstpost/</guid>
-		<description>&lt;p&gt;It took me a while to learn Hugo and CSS but I&amp;rsquo;ve finally deployed my own site from scratch. This site was created completely from scratch using just Hugo, Html and CSS (No JS!). This is still a work in progress and I&amp;rsquo;ll keep updating this site as time goes on, so watch out for updates!&lt;/p&gt;
-&lt;p&gt;This site is based on minimalism and a &amp;lsquo;keep it simple&amp;rsquo; mindset. I don&amp;rsquo;t plan on making this website fancy (bloated) with dumb JS, unnecessary animations, etc.&lt;/p&gt;
-&lt;p&gt;Check out the source code of this website on &lt;a href=&#34;https://github.com/sajayprakash/sajayprakash.com&#34;&gt;Github&lt;/a&gt;. If you have any suggestions, ideas or find any improvements, feel free to &lt;a href=&#34;https://github.com/sajayprakash/sajayprakash.com/issues/new&#34;&gt;create an issue&lt;/a&gt; on Github or email me.&lt;/p&gt;
-</description>
-	</item>
-	
-	</channel>
+  </channel>
 </rss>

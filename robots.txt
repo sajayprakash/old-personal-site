@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sajayprakash.com/sitemap.xml
