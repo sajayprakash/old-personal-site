@@ -14,7 +14,7 @@ xml: false
 
 This page contains some useful links.
 
-## Pages on this site:
+## Pages on this site
 
 - [Home](/)
 - [Posts](/posts)
@@ -23,7 +23,7 @@ This page contains some useful links.
 - [RSS feed](/index.xml)
 - [Resume](/resume)
 
-## Important Sites:
+## Important Sites
 
 - [Blowfish](https://nunocoracao.github.io/blowfish/) - Theme used in this site.
 
