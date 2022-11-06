@@ -4,6 +4,7 @@ sharingLinks: false
 showDate: false
 showWordCount: false
 showReadingTime: false
+xml: false
 
 ---
 ![REC](rec.jpg "Rajalakshmi Engineering College" )

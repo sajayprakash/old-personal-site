@@ -26,10 +26,23 @@
   weight = 30
 
 [[main]]
+  name = "Resume"
+  pageRef = "resume"
+  url = "/resume"
+  weight = 40
+
+[[main]]
+  name = "Links"
+  pageRef = "links"
+  url = "/links"
+  weight = 50
+
+
+[[main]]
   identifier = "rss"
   pre = "rss-solid"
   url = "/index.xml"
-  weight = 50
+  weight = 60
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

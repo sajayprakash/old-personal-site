@@ -3,6 +3,7 @@ title: "Programs"
 showDate: false
 showReadingTime: false
 showWordCount: false
+xml: false
 
 ---
 
@@ -14,7 +15,7 @@ Most of the software I use is free and open-source. All of them are privacy frie
 
 - [Arch Linux](https://archlinux.org/) - A lightweight and flexible Linux distribution that tries to keep it simple. 
 
-- [Windows 10 LTSC](https://isofiles.bd581e55.workers.dev/) - Unfortunately I'm still forced to use Windows for gaming so I have to use this proprietary garbage which is slightly better than standard windows 10 and windows 11 (pls don't use windows 11 lol).
+- [Windows 10 LTSC](https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/) - Unfortunately I'm still forced to use Windows for gaming so I have to use this proprietary garbage which is slightly better than standard windows 10 and windows 11 (pls don't use windows 11 lol).
 
 ## Terminal
 
