@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
 
-colorScheme = "blowfish"
+colorScheme = "ocean"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false 
 
@@ -23,8 +23,8 @@ enableCodeCopy = true
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "/img/bg.png" # used in: hero, and card
   showRecent = true 
   showRecentItems = 5
   showMoreLink = true
@@ -37,7 +37,7 @@ enableCodeCopy = true
   showDateUpdated = false
   showAuthor = true
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background
+  heroStyle = "background" # valid options: basic, big, background
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false 
@@ -61,6 +61,8 @@ enableCodeCopy = true
   showTableOfContents = false
   showCards = true 
   groupByYear = true
+  cardView = true
+  cardViewScreenWidth = false
 
 [sitemap]
   excludedKinds = []
