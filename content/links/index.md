@@ -19,6 +19,7 @@ This page contains some useful links.
 - [Home](/)
 - [Posts](/posts)
 - [About](/about)
+- [Megathread](/megathread)
 - [Programs](/programs)
 - [RSS feed](/index.xml)
 - [Resume](/resume)
