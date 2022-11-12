@@ -14,7 +14,7 @@ More often than not, I get asked the question - "Why do you use Linux, what is i
 
 ## What is Linux?
 
-![Operating System Levels](os-levels.png "Operating System Levels")
+![Operating System Levels](os-levels.webp "Operating System Levels")
 
 Just like Windows, MacOS, iOS, Android, etc. Linux is just another operating system. Fun fact, the Android operating system is based on Linux.
 
