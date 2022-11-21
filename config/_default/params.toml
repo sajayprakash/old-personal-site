@@ -23,8 +23,8 @@ mainSections = ["posts"]
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/bg.webp" # used in: hero, and card
+  layout = "profile" # valid options: page, profile, hero, card, background, custom
+  # homepageImage = "/img/bg.webp" # used in: hero, and card
   showRecent = true 
   showRecentItems = 5
   showMoreLink = true
