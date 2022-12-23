@@ -56,16 +56,16 @@ Items in this page that have a 🌟 icon next to them represent my top/favourite
 ## Operating Systems
 ### PC
 #### Windows
- - [Windows 10 LTSC](https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/) - Slightly less bloated version of Windows 10.
+- [Windows 10 LTSC](https://isofiles.bd581e55.workers.dev/Windows%2010/Windows%2010%20Enterprise%20LTSC%202021/) - Slightly less bloated version of Windows 10.
 - [Chris Titus Tech WinUtil](https://github.com/ChrisTitusTech/winutil) - Chris' Windows 10 Utility. Use it to debloat and tweak Windows.
 - [Simplewall](https://github.com/henrypp/simplewall) - Firewall for Windows.
 
 #### Linux
-- [Arch linux 🌟](https://archlinux.org/) - A lightweight and flexible Linux® distribution that tries to keep it simple
-- [Fedora](https://getfedora.org/) - Fedora is a Linux distribution developed by the community-supported Fedora Project
+- [Arch linux 🌟](https://archlinux.org/) - A lightweight and flexible Linux® distribution that tries to keep it simple.
+- [Fedora](https://getfedora.org/) - Fedora is a Linux distribution developed by the community-supported Fedora Project.
 - [Linux Mint](https://linuxmint.com/) - Linux Mint is a community-driven Linux distribution based on Ubuntu, bundled with a variety of free and open-source applications.
 - [Tails](https://tails.boum.org/) (**Live operating system for using the Tor/Onion network**) - Tails is a portable operating system that protects against surveillance and censorship.
-- [Qubes OS](https://www.qubes-os.org/) - A reasonably secure operating system
+- [Qubes OS](https://www.qubes-os.org/) - A reasonably secure operating system.
 
 ## Piracy 
 
@@ -74,14 +74,13 @@ I do not condone piracy. These links are only for educational purposes.
 {{< /alert >}}
 ### Media 
 #### Anime
-- [piracy.moe 🌟](https://piracy.moe/) - Index for Anime and Manga sites/apps
-- [Nyaa.si 🌟](https://nyaa.si) - Anime torrent site (**If blocked by ISP use Tor, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) or a VPN**)
-- [GoGo Anime](https://gogoanime.vc/) - Popular website for watching anime
-- [Animxplay.to 🌟](https://animixplay.to/) - Watch HD Anime for Free
+- [piracy.moe 🌟](https://piracy.moe/) - Index for Anime and Manga sites/apps.
+- [Nyaa.si 🌟](https://nyaa.si) - Anime torrent site. (**If blocked by ISP use Tor, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) or a VPN**)
+- [GoGo Anime](https://gogoanime.bid/) - Popular website for watching anime.
 
 #### Music & Audiobooks
 - [Audiobookbay](http://audiobookbay.nl/) - Download unabridged audiobook for free or share your audio books
-- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Spotify ad blocker (PC)
+- [SpotX](https://github.com/SpotX-CLI/SpotX-Win) - Spotify ad blocker (PC).
 - [SpotiFlyer 🌟](https://github.com/Shabinder/SpotiFlyer/) - Multiplatform Music Downloader. 
 
 ### Games

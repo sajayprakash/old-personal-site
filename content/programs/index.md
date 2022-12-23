@@ -7,7 +7,7 @@ xml: false
 
 ---
 
-Most of the software I use is free and open-source. All of them are privacy friendly (except windows). I like to follow a minimalistic lifestyle, so my choices of software will follow a "do one thing, but do it good" attitude. For more software recommendations check out [My megathread](https://sajayprakash.github.io/megathread/).
+Most of the software I use is free and open-source. All of them are privacy friendly (except windows). I like to follow a minimalistic lifestyle, so my choices of software will follow a "do one thing, but do it good" attitude. For more software recommendations check out [My megathread](https://sajayprakash.com/megathread).
 
 # Basic Software
 
