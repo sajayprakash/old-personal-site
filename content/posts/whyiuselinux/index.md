@@ -1,5 +1,5 @@
 ---
-title: "Why do I use Linux as my primary operating system?"
+title: "Why I use Linux as my primary operating system"
 date: 2022-09-18
 tags: ['Linux','Windows','Tech']
 
