@@ -40,7 +40,7 @@
 
 [[main]]
   identifier = "rss"
-  pre = "rss-solid"
+  pre = "rss"
   url = "/index.xml"
   weight = 60
 
