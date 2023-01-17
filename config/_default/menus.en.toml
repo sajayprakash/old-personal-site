@@ -32,11 +32,29 @@
   weight = 40
 
 [[main]]
-  name = "Links"
-  pageRef = "links"
-  url = "/links"
+  name = "Other"
   weight = 50
 
+[[main]]
+  name = "Megathread"
+  parent = "Other"
+  pageRef = "megathread"
+  url="/megathread"
+  weight = 10
+
+[[main]]
+  name = "Programs"
+  parent = "Other"
+  pageRef = "programs"
+  url="/programs"
+  weight = 20
+
+[[main]]
+  name = "Source Code"
+  parent = "Other"
+  pageRef = "source"
+  url="https://github.com/sajayprakash/sajayprakash.com"
+  weight = 20
 
 [[main]]
   identifier = "rss"
