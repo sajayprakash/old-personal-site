@@ -24,12 +24,10 @@ This page contains some useful links.
 - [RSS feed](/index.xml)
 - [Resume](/resume)
 
-## Important Sites
+## Repositories
+### Source code of this site
+{{< github repo="sajayprakash/sajayprakash.com" >}}
 
-- [Blowfish](https://nunocoracao.github.io/blowfish/) - Theme used in this site.
-
-- [Hugo](https://gohugo.io/) - Static site generator used to make this site.
-
-- [github.com/sajayprakash.com](https://github.com/sajayprakash/sajayprakash.com) - Source code of this site.
-
+### Theme used in this site
+{{< github repo="nunocoracao/blowfish" >}}
 
