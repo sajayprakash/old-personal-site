@@ -26,7 +26,7 @@ mainSections = ["posts"]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "/img/bg.webp" # used in: hero, and card
   showRecent = true 
-  showRecentItems = 5
+  showRecentItems = 3
   showMoreLink = true
   showMoreLinkDest = "/posts"
 
@@ -37,7 +37,7 @@ mainSections = ["posts"]
   showDateUpdated = false
   showAuthor = true
   showHero = true
-  heroStyle = "big" # valid options: basic, big, background
+  heroStyle = "background" # valid options: basic, big, background
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false 
