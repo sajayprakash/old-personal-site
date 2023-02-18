@@ -17,7 +17,7 @@ In today's digital age, the web browser has become an essential tool for accessi
 
 - Chrome is also often made fun of for being a ram hungry software and often uses up all the ram. Here's a fun little meme I found on the internet!
 
-![](rameatingsim.jpg)
+![](rameatingsim.webp)
 
 - **Customization**: Firefox allows users to customize their browser experience with a wide range of extensions, themes, and add-ons. Chrome's customization options are limited in comparison.
 
@@ -32,4 +32,3 @@ In today's digital age, the web browser has become an essential tool for accessi
 ## Download and use Firefox right now!
 
 It's free and open-source, so there is absolutely no harm in trying it out. Head over to their website [Mozilla.org](https://www.mozilla.org/en-US/firefox/new/) and install Firefox!
-
