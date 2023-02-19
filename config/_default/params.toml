@@ -15,6 +15,17 @@ enableCodeCopy = true
 mainSections = ["posts"]
 # robots = ""
 
+disableImageOptimization = false
+
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
+
+defaultBackgroundImage = "/img/bg.webp"
+
+[header]
+  layout = "fixed"
+
 [footer]
   showMenu = false 
   showCopyright = true
@@ -24,11 +35,13 @@ mainSections = ["posts"]
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/bg.webp" # used in: hero, and card
+  # homepageImage = "/img/bg.webp" # used in: hero, and card
   showRecent = true 
   showRecentItems = 3
   showMoreLink = true
   showMoreLinkDest = "/posts"
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true
 
 [article]
   showDate = true
@@ -41,6 +54,7 @@ mainSections = ["posts"]
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false 
+  layoutBackgroundBlur = true
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
@@ -56,19 +70,41 @@ mainSections = ["posts"]
   sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
 [list]
-  showBreadcrumbs = false
+  showHero= true
+  showBreadcrumbs = true 
+  heroStyle = "background" 
+  layoutBackgroundBlur = true
+  layoutBackgroundHeaderSpace = false
   showSummary = false
   showTableOfContents = false
   showCards = true 
-  groupByYear = true
+  groupByYear = false 
   cardView = true
+  constrainItemsWidth = false
   cardViewScreenWidth = false
 
 [sitemap]
-  excludedKinds = []
+  excludedKinds = ["taxonomy","term"]
 
 [taxonomy]
   showTermCount = true
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
+  cardView = false
+[term]
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
+  groupByYear = false
+  cardView = true
+  cardViewScreenWidth = false
 
 [firebase]
   # apiKey = "XXXXXX"
@@ -78,6 +114,14 @@ mainSections = ["posts"]
   # messagingSenderId = "XXXXXX"
   # appId = "XXXXXX"
   # measurementId = "XXXXXX"
+
+
+[buymeacoffee]
+  # identifier = "sajay"
+  # globalWidget = true
+  # globalWidgetMessage = ""
+  # globalWidgetColor = "#FFDD00"
+  # globalWidgetPosition = "Right"
 
 [fathomAnalytics]
   # site = "ABC12345"

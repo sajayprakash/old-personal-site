@@ -3,11 +3,14 @@ baseURL = "https://sajayprakash.com/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 10
+paginate = 20
 summaryLength = 30
 
 buildDrafts = false
 buildFuture = false
+
+[imaging]
+  anchor = 'Center'
 
 [taxonomies]
   tag = "tags"
@@ -16,7 +19,7 @@ buildFuture = false
   series = "series"
 
 [sitemap]
-  changefreq = 'daily'
+  changefreq = 'always'
   filename = 'sitemap.xml'
   priority = 0.5
 
