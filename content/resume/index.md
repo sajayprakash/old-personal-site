@@ -2,7 +2,6 @@
 title: "Resume"
 date: 2022-11-612:25+5:30 
 draft: false
-
 showDate : false
 showDateUpdated : false
 showHeadingAnchors : false
@@ -33,7 +32,7 @@ data: {
     'Docker',
   ],
   datasets: [{
-    label: 'Proficiency in % *',
+    label: 'Proficiency in %',
     data: [
      90,
      100,
@@ -47,8 +46,12 @@ data: {
      85
     ],
     fill: true,
+    backgroundColor: 'rgba(167, 192, 128, 0.8)',
+    borderColor: '#e67e80',
+    pointBackgroundColor: '#d699b6',
   }]
 },
+options: { scales: { r: { grid: { color: "#83C092", }, } } },
 {{< /chart >}}
 
 <br>
