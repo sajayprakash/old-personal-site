@@ -29,6 +29,13 @@ In today's digital age, the web browser has become an essential tool for accessi
 
 - **Internet Health**: A healthy internet relies on a diverse ecosystem of browsers. A browser monopoly would lead to a homogenous internet, with limited options for users.
 
-## Download and use Firefox right now!
+## Still not convinced?
+Why don't you try it out yourself, it's free and won't cost you anything other than a couple of minutes.
 
-It's free and open-source, so there is absolutely no harm in trying it out. Head over to their website [Mozilla.org](https://www.mozilla.org/en-US/firefox/new/) and install Firefox!
+{{< button href="https://www.mozilla.org/en-US/firefox/download/thanks/" >}}
+Download Firefox
+{{< /button >}}
+<br>
+{{< alert "circle-info" >}}
+Check out [My Megathread](/megathread/#internet) for some useful extensions, settings and other stuff for a better browsing experience.
+{{< /alert >}}
