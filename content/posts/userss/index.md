@@ -1,6 +1,6 @@
 ---
 title: "Stop consuming content the wrong way: RSS"
-date: 2022-09-18
+date: 2023-03-02
 tags: [Software','Tech','Privacy']
 
 ---
