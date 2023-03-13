@@ -121,7 +121,7 @@ const experiences = [
 
 const projects = [
   {
-    name: "Personal Website",
+    name: "Portfolio Website",
     description:
       "The website you are currently using! This was built using ReactJS, Tailwind CSS and threejs",
     tags: [
