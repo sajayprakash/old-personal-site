@@ -139,7 +139,7 @@ const projects = [
       },
     ],
     image: personalsite,
-    source_code_link: "https://github.com/sajayprakash/sajayprakash.com",
+    source_code_link: "https://github.com/sajayprakash/portfolio-site/",
   },
 ];
 
