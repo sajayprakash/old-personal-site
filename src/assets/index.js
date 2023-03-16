@@ -24,6 +24,8 @@ import bhavans from "./education/bhavans.png";
 import rec from "./education/rec.png";
 
 import personalsite from "./personalsite.png";
+import blogsite from "./blogsite.png";
+import flashcardsite from "./flashcardsite.png";
 
 export {
   logo,
@@ -49,4 +51,6 @@ export {
   bhavans,
   rec,
   personalsite,
+  blogsite,
+  flashcardsite,
 };

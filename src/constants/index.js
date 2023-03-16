@@ -14,6 +14,8 @@ import {
   bhavans,
   rec,
   personalsite,
+  blogsite,
+  flashcardsite,
   threejs,
 } from "../assets";
 
@@ -140,6 +142,44 @@ const projects = [
     ],
     image: personalsite,
     source_code_link: "https://github.com/sajayprakash/portfolio-site/",
+  },
+  {
+    name: "Blogging Website",
+    description:
+      "A Blog website built using ReactJS, AstroJS and Tailwind CSS",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "astrojs",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: blogsite,
+    source_code_link: "https://github.com/sajayprakash/blog-site/",
+  },
+{
+    name: "Flashcard Site",
+    description:
+      "A Japanese language flashcard site to easily learn the hiragana and katakana alphabets using active recall method of studying",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: flashcardsite,
+    source_code_link: "https://github.com/sajayprakash/japanese-flashcard-site/",
   },
 ];
 
